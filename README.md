@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> [Installing]</h1>
+<h1 align="center"> [Informasi]</h1>
 
 <h2 align="center">  CRACKFB PREM TOOL YA ADICK ADICK </h2>
 
