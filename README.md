@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf FILEPRO`
-- `git clone https://github.com/Rayan-Senpai/MRrayan`
+- `git clone https://github.com/Rayan-Senpai/crackfb-prem`
 - `cd MRrayan`
 - `python MRrayan.py`
      
