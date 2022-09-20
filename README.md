@@ -21,7 +21,7 @@
 - `pip install bs4`
 - `rm -rf FILEPRO`
 - `git clone https://github.com/Rayan-Senpai/crackfb-prem`
-- `cd MRrayan`
+- `cd crackfb-prem`
 - `python MRrayan.py`
      
 
