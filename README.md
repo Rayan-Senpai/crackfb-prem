@@ -22,7 +22,7 @@
 - `rm -rf FILEPRO`
 - `git clone https://github.com/Rayan-Senpai/crackfb-prem`
 - `cd crackfb-prem`
-- `python MRrayan.py`
+- `python MRrayanprem.py`
      
 
  ```This Tools MRrayan ```</br>
